@@ -1,0 +1,8 @@
+//
+// Created by Asus on 19.01.2020.
+//
+
+#ifndef SYMULACJA_SIECI_FACTORY_HPP
+#define SYMULACJA_SIECI_FACTORY_HPP
+
+#endif //SYMULACJA_SIECI_FACTORY_HPP
